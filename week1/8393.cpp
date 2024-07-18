@@ -18,3 +18,4 @@ int main(int argc, char const *argv[]) {
 	cout << sum<< endl; ; //sum 값을 출력 -> 출력 후 줄 바꿈
 	return 0;
 }
+
