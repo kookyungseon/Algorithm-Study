@@ -22,7 +22,7 @@ public class basket {
 
         for(int i =0; i <M; i++){
 
-            int I = sc.nextInt()-1;
+            int I = sc.nextInt()-1; //배열을 arr[1]부터 제대로 작동하기 위함
             int J = sc.nextInt()-1;
 
           //바꿀곳 입력받기 
