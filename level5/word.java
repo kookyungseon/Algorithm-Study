@@ -11,6 +11,8 @@ public class word {
         int N = sc.nextInt()-1;
 
         System.out.print(word.charAt(N));
+
+        //word.charAt(N)은 word에 저장된 단어의 N번째 문자 출력
     }
     
 }
